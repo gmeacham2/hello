@@ -15,5 +15,7 @@
 
  printf("I am majoring in Electrical Engineering\n")
 
+ printf("Kyle Fitch!\n");
+ printf("I am majoring in Electrical Engineering\n");
  return 0;
 }
